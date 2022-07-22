@@ -20,7 +20,7 @@
   "author": "Neil Fenton (neilff)",
   "license": "MIT",
   "dependencies": {
-    "redux": "^3.5.2"
+    "redux": "^4.2.0"
   },
   "devDependencies": {
     "@uirouter/angularjs": "^1.0.3",
